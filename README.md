@@ -17,3 +17,6 @@ Admin page :
 1. Menambahkan feedback
 2. History Feedback
 3. List Aspirasi
+
+Disclaimer ! 
+File melebihi 100, izin untuk share zip nanti tinggal download, terimakasih

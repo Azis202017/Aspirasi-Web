@@ -19,4 +19,5 @@ Admin page :
 3. List Aspirasi
 
 Disclaimer ! 
-File melebihi 100, izin untuk share zip nanti tinggal download, terimakasih
+File melebihi 100, yang saya upload kesini hanyalah beberapa source code untuk mendapatkan sepenuh nya bisa di https://drive.google.com/drive/folders/1MjHmvNB4Y8utBV-XRkrayOjGbeLd_pE6?usp=sharing terimakasih
+

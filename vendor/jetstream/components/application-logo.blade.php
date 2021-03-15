@@ -1,0 +1,1 @@
+<img src="{{asset('image2vector.svg')}}" alt="">
